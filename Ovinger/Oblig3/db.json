@@ -1,0 +1,76 @@
+{
+  "contactform": [
+    {
+      "name": "test",
+      "email": "test@test.no",
+      "message": "test",
+      "id": 1
+    },
+    {
+      "name": "test",
+      "email": "test@test.no",
+      "message": "test",
+      "id": 2
+    },
+    {
+      "name": "Daniel",
+      "email": "danielaevensen@gmail.com",
+      "message": "This is a test!",
+      "id": 3
+    },
+    {
+      "name": "John",
+      "email": "john@smith.com",
+      "message": "This is a test",
+      "id": 4
+    },
+    {
+      "name": "John",
+      "email": "john@smith.com",
+      "message": "This is a test",
+      "id": 5
+    },
+    {
+      "name": "Daniel",
+      "email": "danielaevensen@gmail.com",
+      "message": "a",
+      "id": 6
+    },
+    {
+      "name": "John",
+      "email": "john@smith.com",
+      "message": "This is a test",
+      "id": 7
+    },
+    {
+      "name": "John",
+      "email": "john@smith.com",
+      "message": "This is a test",
+      "id": 8
+    },
+    {
+      "name": "John",
+      "email": "john@smith.com",
+      "message": "This is a test",
+      "id": 9
+    },
+    {
+      "name": "John",
+      "email": "john@smith.com",
+      "message": "This is a test",
+      "id": 10
+    },
+    {
+      "name": "Daniel",
+      "email": "danielaevensen@gmail.com",
+      "message": "Message",
+      "id": 11
+    },
+    {
+      "name": "John",
+      "email": "john@smith.com",
+      "message": "This is a test",
+      "id": 12
+    }
+  ]
+}
